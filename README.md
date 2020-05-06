@@ -1,6 +1,6 @@
 ## Data cleaning on Web scraped data
 
-### 1. Data munging_Split mixed- unstructured columns
+### 1. Data munging_Split mixed-unstructured columns
 *<b>Split mixed & unstructured columns with defined list of keywords into different columns</b>*
 
 **Input :** Sample scraped data of schools with unstructured columns
