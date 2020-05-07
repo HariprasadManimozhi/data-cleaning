@@ -12,6 +12,6 @@
 
 **Input :** Sample scraped data of business transactions in single column
 
-**Output :** Structured data with structed headers, rows, columns 
+**Output :** Structured data with structured headers, rows, columns 
 
 
